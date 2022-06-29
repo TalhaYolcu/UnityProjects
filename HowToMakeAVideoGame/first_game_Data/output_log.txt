@@ -1,0 +1,58 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   30.0.101.1994
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.117 seconds
+Platform assembly: D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\GTU\UnityProjects\HowToMakeAVideoGame\first_game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.829800 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2c10 -> priority: 1 
+  Thread -> id: 9c8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.731300 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.634900 ms (FindLiveObjects: 0.058500 ms CreateObjectMapping: 0.049800 ms MarkObjects: 0.503100 ms  DeleteObjects: 0.022000 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.457400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.603200 ms (FindLiveObjects: 0.059000 ms CreateObjectMapping: 0.050700 ms MarkObjects: 0.477600 ms  DeleteObjects: 0.014000 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.390900 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 386.
+Total: 0.595900 ms (FindLiveObjects: 0.055200 ms CreateObjectMapping: 0.050200 ms MarkObjects: 0.475200 ms  DeleteObjects: 0.013600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.795000 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 0.675700 ms (FindLiveObjects: 0.053700 ms CreateObjectMapping: 0.032900 ms MarkObjects: 0.343000 ms  DeleteObjects: 0.244800 ms)
+
+Quitting...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
